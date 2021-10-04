@@ -7,7 +7,7 @@ I've applied my learnings from Modules #1 and #2 to create the CSS and HTML for 
 - Navigation Links to each section is provided at the top of the page.
 - A photo of myself is provided above the 'About Me' section, along with a Quote that inspires me to keep trying (to learn)
 - My Work section lists my professional Work Experience - the Companies where I have worked at and the Titles along with Company logos.
-- I will add a section for my Web Development experience, as I develop more full-stack applications during this bootcamp.
+- I have added a section for my Web Development experience, it has contains links to the deployed applications I have developed during the bootcamp.
 - I've included event listeners when user hovers over different elements on the page.
 - The page is styled to adapt to different screen sizes.
 
